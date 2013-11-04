@@ -11,7 +11,7 @@ _This module is an update for [freebase's / google's new geosearch api](https://
 
 ## Giddyup
 ```javascript
-    npm install freebase
+    npm install freebase_geo
 ```
 
 then:
