@@ -1,6 +1,6 @@
 {
   "author": "Julia Jacobs <jjacobs2000@me.com> (http://html5devgal.com)",
-  "name": "freebase",
+  "name": "freebase_geo",
   "description": "An extension of the Freebase.js node module https://github.com/spencermountain/Freebase.js /n which includes freebases geosearch api",
   "version": "0.0.1",
   "repository": {
